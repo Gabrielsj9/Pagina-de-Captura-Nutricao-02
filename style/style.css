@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin: auto;
+
+}
+header{
+    background-color: lightcyan;
+    padding: 25px;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: darkcyan;
+}
+
+section{
+    padding-bottom: 80px;
+}
+
+.picture{
+    max-width: 300px;
+    float: right;
+
+    position: absolute;
+    right: 200px;
+    top: 145px;
+
+    border: lightcyan solid 12px;
+    border-radius: 6px;
+    box-shadow: 5px 5px 7px 5px white;
+}
+
+h2{
+    text-align: center;
+    font-size: 35px;
+}
+
+.description{
+    text-align: justify;
+    max-width: 30%;
+
+    margin-top: 110px;
+    
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+
+    background-color:lightcyan;
+    border-radius: 6px;
+
+    padding: 10px;
+
+
+}
+
+.objective{
+    margin-top: 50px;
+    padding-top: 35px;
+    background-color: lightcyan;
+}
+
+.formContainer{
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+
+    vertical-align: middle;
+ 
+    max-width: 300px;;
+    padding: 40px;
+    background-color: #008b8bbd;
+
+    border: lightcyan solid 12px;
+    border-radius: 6px;
+    box-shadow: 5px 5px 7px 5px #008b8bbd;
+}
+
+h3{
+    font-size: 22px;
+    text-align: center;
+    font-weight: 900;
+    
+}
+
+.mb{
+    margin-bottom: 15px;
+}
+
+
+
+a{
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 8px;
+
+    background-color: #34af23bd;
+
+    padding: 6px;
+
+    margin-left: 70px;
+    font-weight: 600;
+}
+
